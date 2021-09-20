@@ -1,0 +1,35 @@
+h2 {
+    color: aliceblue;
+    text-align: center;
+}
+
+body {
+    background-color: #212529;
+}
+
+table {
+    align-self: center;
+    border: 1px solid aliceblue;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: center;
+}
+
+th {
+    align-self: center;
+    border: 1px solid aliceblue;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+td {
+    align-self: center;
+    border: 1px solid aliceblue;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+}

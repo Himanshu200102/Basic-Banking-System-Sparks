@@ -1,0 +1,60 @@
+header {
+    padding: 30px;
+    background-color: #212529;
+}
+
+.head img {
+    float: right;
+    width: 40px;
+    height: 40px;
+    background-color: #212529;
+}
+
+.head h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+#right {
+    text-align: right;
+    vertical-align: top;
+}
+
+.topimg {
+    height: 140px;
+    width: 145px;
+    float: right;
+}
+
+.h1m {
+    text-align: center;
+    font-size: 85px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+body {
+    background-color: #212529;
+}
+
+.card-title {
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-text {
+    font-size: x-large;
+}
+
+h6 {
+    text-align: center;
+    color: white;
+}
